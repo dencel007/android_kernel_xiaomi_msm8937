@@ -47,9 +47,7 @@ Module.symvers
 /vmlinuz
 /System.map
 /Module.markers
-/AnyKernel2/*
-/net/wireguard/*
-/out/*
+/out
 kernel.sh
 #
 # Debian directory (make deb-pkg)
